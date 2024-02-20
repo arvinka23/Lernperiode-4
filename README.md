@@ -24,9 +24,9 @@ Heute stiss ich auf das beste Snake-Spiel-Tutorial auf YouTube, das ich je gefun
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |  erstellte c# Dokumente. die fotos vom Spiel sollen in c# sein              |          |
-| 2             |                      |                |    computer muss wissen, worüber das game geht            |          |
-| 3               |                      |                |  snake wird engefügt und man kann sie bewegen             |          |
+| 1               |                      |                |  Erstellte C#-Dokumente. Die Fotos des Spiels sollen in C# eingebettet sein.               |          |
+| 2             |                      |                |    Der Computer muss wissen, worum es im Spiel geht.        |          |
+| 3               |                      |                | Snake wird eingefügt, und man kann es bewegen.            |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
