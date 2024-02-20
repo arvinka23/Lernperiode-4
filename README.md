@@ -18,15 +18,15 @@ Arvin kasopour
 Heute stiss ich auf das beste Snake-Spiel-Tutorial auf YouTube, das ich je gefunden habe. Anschließend widmete ich mich Modul 164, da wir unser SQL-Projekt in nur zwei Tagen einreichen müssen.
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Erstes Arbeitspaket: Assets importieren, die files machen und Richtungen
+- [ ] Zweite Arbeitspaket: Positionen und game state
+- [ ] dritte Arbeitspaket und vierte Arbeitspaket: snake hinzufügen und essen hinzufügen
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 1               |                      |                |  erstellte c# Dokumente. die fotos vom Spiel sollen in c# sein              |          |
+| 2             |                      |                |    computer muss wissen, worüber das game geht            |          |
+| 3               |                      |                |  snake wird engefügt und man kann sie bewegen             |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
