@@ -7,7 +7,9 @@ Arvin kasopour
 ## Grob-Planung
 
 1.Mit der Note bin ich nicht so zufrieden, aber es wird wahrscheinlich in diesem Semester besser sein, da ich diese Module belege.
+
 2.Ich denke, ich muss mehrere schwierige Projekte machen, um das Gelernte anwenden zu können. Ich kann meiner Meinung nach gut programmieren, aber es fällt mir schwer, Fehler in meinem eigenen Programm zu finden.
+
 3.Neu: Ich möchte neue Funktionen in C# lernen und besser mit WPF arbeiten können.
 4.Meiner Meinung nach kann ich ein komplexes Snake-Spiel erstellen, was wahrscheinlich 4 bis 5 Wochen dauern wird. Danach kann ich mich einem kürzeren Projekt widmen.
 
