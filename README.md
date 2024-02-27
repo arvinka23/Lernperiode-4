@@ -36,7 +36,9 @@ Ich habe Assets importiert und WPF-Dateien erstellt. Anschliessend habe ich vier
 
 ## 05.03.24
 Erstes Arbeitspaket: Snake-Funktionen zu GameState hinzufügen.
-Zweites Arbeitspaket: Die Schlange bewegen können, um die Snake-Funktionen abzuschließen.
+
+Zweites Arbeitspaket: Die Schlange bewegen können, um die Snake-Funktionen abzuschliessen.
+
 Drittes und viertes Arbeitspaket: Fotos laden mit einer privaten statischen Methode.
 
 ## Reflexion
