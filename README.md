@@ -24,15 +24,20 @@ Heute stiss ich auf das beste Snake-Spiel-Tutorial auf YouTube, das ich je gefun
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |  Erstellte C#-Dokumente. Die Fotos des Spiels sollen in C# eingebettet sein.               |          |
-| 2             |                      |                |    Der Computer muss wissen, worum es im Spiel geht.        |          |
+| 1               |                      |                |  Erstellte C#-Dokumente. Die Fotos des Spiels sollen in C# eingebettet sein.               |   Erfüllt      |
+| 2             |                      |                |    Der Computer muss wissen, worum es im Spiel geht.        | Erfüllt         |
 | 3               |                      |                | Snake wird eingefügt, und man kann es bewegen.            |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
+Ich habe Assets importiert und WPF-Dateien erstellt. Anschliessend habe ich vier verschiedene Klassen erstellt: Position, Grid, Value, GameState und Direction. Diese Klassen repräsentieren verschiedene Aspekte und den Zustand des Spiels, im Zusammenhang mit WPF-Anwendungen.
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
-
+## 05.03.24
+Erstes Arbeitspaket: Snake-Funktionen zu GameState hinzufügen.
+Zweites Arbeitspaket: Die Schlange bewegen können, um die Snake-Funktionen abzuschließen.
+Drittes und viertes Arbeitspaket: Fotos laden mit einer privaten statischen Methode.
 
 ## Reflexion
 
