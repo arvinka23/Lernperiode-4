@@ -41,7 +41,22 @@ Zweites Arbeitspaket: Die Schlange bewegen können, um die Snake-Funktionen abzu
 
 Drittes und viertes Arbeitspaket: Fotos laden mit einer privaten statischen Methode.
 
+# Projekt Arbeitspakete und Testfälle
+
+| Arbeitspaket         | Testfall-Nummer | Ausgangslage (Given)                                 | Eingabe (When)                                       | Ausgabe (Then)                                                           | Erfüllt?  |
+| -------------------- | --------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------ | --------- |
+| Erstes Arbeitspaket  | 1               | -                                                     | Snake-Funktionen zu GameState hinzufügen.            | Snake-Funktionen erfolgreich zu GameState hinzugefügt.                   | -         |
+| Zweites Arbeitspaket | 2               | Snake-Funktionen zu GameState hinzugefügt.            | Die Schlange bewegen.                                | Die Schlange lässt sich erfolgreich bewegen.                            | -         |
+| Drittes Arbeitspaket | 3               | -                                                     | Fotos laden mit privater statischer Methode.        | Fotos werden erfolgreich geladen und in das Spiel integriert.           | -         |
+| Viertes Arbeitspaket | 4               | Fotos geladen mit privater statischer Methode.        | -                                                   | Die geladenen Fotos sind korrekt im Spiel eingebettet.                  | -         |
+
+## Hinweise
+- Für detaillierte Anleitungen zu jedem Arbeitspaket und Testfall, siehe die entsprechenden Abschnitte im Code oder Dokumentation.
+- Bitte aktualisiere die Spalte "Erfüllt?" nach Durchführung der Tests.
+
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
 
