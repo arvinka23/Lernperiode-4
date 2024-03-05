@@ -45,10 +45,22 @@ Drittes und viertes Arbeitspaket: Fotos laden mit einer privaten statischen Meth
 
 | Arbeitspaket         | Testfall-Nummer | Ausgangslage (Given)                                 | Eingabe (When)                                       | Ausgabe (Then)                                                           | Erfüllt?  |
 | -------------------- | --------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------ | --------- |
-| Erstes Arbeitspaket  | 1               | -                                                     | Snake-Funktionen zu GameState hinzufügen.            | Snake-Funktionen erfolgreich zu GameState hinzugefügt.                   | -         |
-| Zweites Arbeitspaket | 2               | Snake-Funktionen zu GameState hinzugefügt.            | Die Schlange bewegen.                                | Die Schlange lässt sich erfolgreich bewegen.                            | -         |
-| Drittes Arbeitspaket | 3               | -                                                     | Fotos laden mit privater statischer Methode.        | Fotos werden erfolgreich geladen und in das Spiel integriert.           | -         |
-| Viertes Arbeitspaket | 4               | Fotos geladen mit privater statischer Methode.        | -                                                   | Die geladenen Fotos sind korrekt im Spiel eingebettet.                  | -         |
+| Erstes Arbeitspaket  | 1               | -                                                     | Snake-Funktionen zu GameState hinzufügen.            | Snake-Funktionen erfolgreich zu GameState hinzugefügt.                   | ja        |
+| Zweites Arbeitspaket | 2               | Snake-Funktionen zu GameState hinzugefügt.            | Die Schlange bewegen.                                | Die Schlange lässt sich erfolgreich bewegen.                            | ja        |
+| Drittes Arbeitspaket | 3               | -                                                     | Fotos laden mit privater statischer Methode.        | Fotos werden erfolgreich geladen und in das Spiel integriert.           | ja      |
+| Viertes Arbeitspaket | 4               | Fotos geladen mit privater statischer Methode.        | -                                                   | Die geladenen Fotos sind korrekt im Spiel eingebettet.                  | ja         |
+
+ich habe heute ,alles was geplannt war, gemacht.
+
+---
+
+## 12.03.24
+
+Erstes Arbeitspaket: Color/Front-Ressourcen erstellen.
+
+Zweites und Drittes Arbeitspaket: Die Benutzeroberfläche (UI) programmieren.
+
+Viertes Arbeitspaket: Grid-Bilder hinzufügen und Gamestate fertigstellen.
 
 ## Hinweise
 - Für detaillierte Anleitungen zu jedem Arbeitspaket und Testfall, siehe die entsprechenden Abschnitte im Code oder Dokumentation.
