@@ -62,6 +62,9 @@ Zweites und Drittes Arbeitspaket: Die Benutzeroberfläche (UI) programmieren.
 
 Viertes Arbeitspaket: Grid-Bilder hinzufügen und Gamestate fertigstellen.
 
+---
+ich habe die entsprechende aufgaben gemacht und da ich mehr zeit hatte. habe ich an modul 106 gearbeitet
+
 ## Hinweise
 - Für detaillierte Anleitungen zu jedem Arbeitspaket und Testfall, siehe die entsprechenden Abschnitte im Code oder Dokumentation.
 - Bitte aktualisiere die Spalte "Erfüllt?" nach Durchführung der Tests.
