@@ -65,6 +65,13 @@ Viertes Arbeitspaket: Grid-Bilder hinzufügen und Gamestate fertigstellen.
 ---
 ich habe die entsprechende aufgaben gemacht und da ich mehr zeit hatte. habe ich an modul 106 gearbeitet
 
+---
+AP1: ich werde an modul 106 arbeiten und aufgabe 03 fertig lösen
+AP2: ich werde an modul 106 arbeiten und aufgabe 07 fertig lösen
+AP3: ich werde an modul 106 arbeiten und aufgabe 08 fertig lösen
+AP4: ich werde an modul 106 arbeiten und aufgabe 09 fertig lösen
+
+
 ## Hinweise
 - Für detaillierte Anleitungen zu jedem Arbeitspaket und Testfall, siehe die entsprechenden Abschnitte im Code oder Dokumentation.
 - Bitte aktualisiere die Spalte "Erfüllt?" nach Durchführung der Tests.
