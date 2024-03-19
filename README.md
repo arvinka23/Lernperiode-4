@@ -71,6 +71,14 @@ AP2: ich werde an modul 106 arbeiten und aufgabe 07 fertig lösen
 AP3: ich werde an modul 106 arbeiten und aufgabe 08 fertig lösen
 AP4: ich werde an modul 106 arbeiten und aufgabe 09 fertig lösen
 
+Ich habe die folgende Aufgabe fertig gemacht.
+
+---
+AP1: ich werde das game loop bearbeiten und nacher muss die schlange sich bewegen können.
+AP2: die code kontrollieren und bugs verbessern
+AP3: die Richtung ändern
+AP4: intro und Endscreen 
+
 
 ## Hinweise
 - Für detaillierte Anleitungen zu jedem Arbeitspaket und Testfall, siehe die entsprechenden Abschnitte im Code oder Dokumentation.
