@@ -80,6 +80,10 @@ AP3: die Richtung ändern
 AP4: intro und Endscreen 
 
 
+---
+
+Die Aufgaben wurden gut erledigt, aber es gibt noch einen kleinen Fehler im Programm, den ich bis heute Nacht finden und den Code hochladen werde.
+
 ## Hinweise
 - Für detaillierte Anleitungen zu jedem Arbeitspaket und Testfall, siehe die entsprechenden Abschnitte im Code oder Dokumentation.
 - Bitte aktualisiere die Spalte "Erfüllt?" nach Durchführung der Tests.
