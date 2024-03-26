@@ -81,7 +81,9 @@ AP4: intro und Endscreen
 
 
 ---
-
+2/4/24
+AP1 und AP2 : Ich werde das Programm fertigmachen
+AP3 und AP4 : Ich werde die Reflexion schreiben.
 Die Aufgaben wurden gut erledigt, aber es gibt noch einen kleinen Fehler im Programm, den ich bis heute Nacht finden und den Code hochladen werde.
 
 ## Hinweise
