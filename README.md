@@ -86,12 +86,16 @@ AP1 und AP2 : Ich werde das Programm fertigmachen
 AP3 und AP4 : Ich werde die Reflexion schreiben.
 Die Aufgaben wurden gut erledigt, aber es gibt noch einen kleinen Fehler im Programm, den ich bis heute Nacht finden und den Code hochladen werde.
 
+ich habe heute versucht das program fertig zustelllen aber ich wurde nicht ganz fertig weil es eine fehler in meinem program auftaucht das problem ist das die linien nivht sichtbar sind
+
 ## Hinweise
 - Für detaillierte Anleitungen zu jedem Arbeitspaket und Testfall, siehe die entsprechenden Abschnitte im Code oder Dokumentation.
 - Bitte aktualisiere die Spalte "Erfüllt?" nach Durchführung der Tests.
 
 
 ## Reflexion
+
+Für das nächste Mal muss ich besser planen. Ich plane, dass ich beim nächsten Mal komplett alleine programmiere, ohne irgendwelche Tutorials. Ich habe bemerkt, dass Fehler auftreten können, wenn ich die Tutorials nicht vollständig durchgehe. Daher möchte ich mich darauf konzentrieren, selbstständig zu arbeiten und meine Fähigkeiten weiterzuentwickeln. Selbstständiges Programmieren wird mir helfen, mehr Vertrauen in meine Fähigkeiten zu gewinnen und besser zu werden. Ich werde mir Zeit nehmen, um mein Projekt gründlich zu planen und sicherzustellen, dass ich alle erforderlichen Schritte verstehe, bevor ich anfange. Dies wird mir ermöglichen, effizienter zu arbeiten und potenzielle Fehler zu minimieren
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
